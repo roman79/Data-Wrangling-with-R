@@ -1,6 +1,6 @@
 # Data-Wrangling-with-R
 
-This meetup would be about data loading and wrangling with R.
+This meetup is about data loading and wrangling with R.
 
  The agenda is given below :
 
